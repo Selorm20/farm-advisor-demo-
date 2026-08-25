@@ -1,2 +1,2 @@
 # farm-advisor-demo-
-Cocoa software prototype
+software prototype
